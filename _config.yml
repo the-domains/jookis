@@ -1,0 +1,28 @@
+name: jookis
+favicon: null
+layout_spectrum: 0.9230796191841364
+typography_spectrum: 0.9839994024951011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6572991104330868
+  lightness: 0.1660976749844849
+  saturation: 0.8181329274084419
+  rhythmicContrast: 0.9384903109166771
+purpose: []
