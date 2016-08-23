@@ -12,7 +12,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.4570354
   brandStrength: 0.4375
   lightness: 1
   brandColors:
@@ -22,16 +22,16 @@ color:
     - '#6B574B'
     - '#160600'
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
 name: jookis
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
